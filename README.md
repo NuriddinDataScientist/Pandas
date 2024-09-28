@@ -15,6 +15,21 @@ This repository contains Jupyter Notebooks that demonstrate basic Pandas methods
         * `str.get()`: Access specific characters or elements within strings.
         * `str.slice()`: Extract substrings based on start and stop indices.
         * `str.find()` and `str.rfind()`: Find the index of the first or last occurrence of a substring.
+     
+         
+* **Warm_up_exercises.ipynb:**
+    * Provides a series of introductory exercises to familiarize yourself with core Pandas operations, including:
+        * Creating DataFrames from dictionaries.
+        * Viewing and inspecting data (head, tail, shape, info).
+        * Handling missing values.
+        * Calculating summary statistics.
+        * Working with unique values.
+        * Filtering and selecting data based on conditions.
+        * Applying functions and transformations to columns.
+        * Mapping values between columns.
+        * Dropping columns.
+        * Sorting DataFrames.
+
 
 * **Ecommerce Purchases.ipynb:**
     * This notebook analyzes an E-commerce dataset, showcasing various data exploration and analysis techniques:
